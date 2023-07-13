@@ -3,6 +3,5 @@
 # Get the C file name from the environment variable
 cfile=$CFILE
 
-# Generate the assembly code and save it to a file
-gcc -S $cfile -o ${cfile%.c}.s
-
+# Compile the C file and create an executable named cisfun
+gcc $cfile -o cisfun
