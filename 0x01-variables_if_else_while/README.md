@@ -1,6 +1,4 @@
-# Random Number Assignment Program
-
-This program generates a random number and determines whether it is positive, negative, or zero.
+This 
 
 ## Requirements
 
@@ -14,6 +12,4 @@ This program generates a random number and determines whether it is positive, ne
 4. Navigate to the directory where the C file is located.
 5. Compile the program by executing the following command:
 
-   ```shell
-   gcc -o random_number_assignment random_number_assignment.c
 
