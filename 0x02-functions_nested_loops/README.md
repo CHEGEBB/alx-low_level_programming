@@ -1,7 +1,7 @@
 # Project Name
 
 ## Introduction
-This project contains a C function that prints the 9 times table, starting with 0
+This project contains a C function that  adds two integers and returns the result. 
 prints the alphabet, in lowercase, followed by a new line.
 ## Getting Started
 To use the C function in this project, follow the steps below:
