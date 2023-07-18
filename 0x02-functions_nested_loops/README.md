@@ -1,7 +1,7 @@
 # Project Name
 
 ## Introduction
-This project contains a C function that prints 10 times the alphabet, in lowercase, followed by a new line 
+This project contains a C function thatchecks for lowercase character. 
 prints the alphabet, in lowercase, followed by a new line.
 ## Getting Started
 To use the C function in this project, follow the steps below:
