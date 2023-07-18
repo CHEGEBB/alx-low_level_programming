@@ -1,7 +1,7 @@
 # Project Name
 
 ## Introduction
-This project contains a C function that checks for alphabetic character.
+This project contains a C function that prints the sign of a number.
 prints the alphabet, in lowercase, followed by a new line.
 ## Getting Started
 To use the C function in this project, follow the steps below:
