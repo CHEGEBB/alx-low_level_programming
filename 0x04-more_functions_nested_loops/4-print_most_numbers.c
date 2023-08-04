@@ -2,17 +2,18 @@
 
 /**
 *print_most_numbers - prints
+* owned by Bwave ICT
 *Return: void
 */
 
 void print_most_numbers(void)
 {
-	char y;
+	char c;
 
-	for (y = '0'; y <= '9'; y++)
+	for (c = '0'; c <= '9'; c++)
 	{
-	if (!(y == '2' || y == '4'))
-	_putchar(y);
+	if (!(c == '2' || c == '4'))
+	_putchar(c);
 	}
 	_putchar('\n');
 }

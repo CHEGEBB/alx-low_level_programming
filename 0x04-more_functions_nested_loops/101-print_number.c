@@ -3,20 +3,20 @@
  * print_number - prints an integer
  * @n:.input integer parameter
  *
- * Return void
+ *Owned by Bwave ICT/ Bright Daniel
  */
 void print_number(int n)
 {
-	unsigned int m = n;
+	unsigned int i = n;
 
 	if (n < 0)
 	{
 		_putchar(45);
-		m = -m;
+		i = -i;
 	}
-	if (m / 10)
+	if (i / 10)
 	{
-		print_number(m / 10);
+		print_number(i / 10);
 	}
-	_putchar(m % 10 + '0');
+	_putchar(i % 10 + '0');
 }
