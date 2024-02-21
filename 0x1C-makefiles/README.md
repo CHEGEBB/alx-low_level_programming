@@ -1,31 +1,20 @@
+# 🚀 Makefile Project - Learning Guide 📚
 
-Resources
-Read or watch:
+## Welcome to the Makefile project! 🛠️ In this journey, you'll dive into the world of Makefiles and learn how to wield the power of automation in your projects. Let's get started on this exciting learning adventure! 🎓✨
 
-What is a makefile and how does it work
-Installing the make utility
-make-official documentation
-More about Makefile
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+#Resources 📖
+## To kick things off, here are some resources to help you get acquainted with Makefiles:
 
-General
-What are make, Makefiles
-When, why and how to use Makefiles
-What are rules and how to set and use them
-What are explicit and implicit rules
-What are the most common / useful rules
-What are variables and how to set and use them
-Copyright - Plagiarism
-You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
-You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
-You are not allowed to publish any content of this project.
-Any form of plagiarism is strictly forbidden and will result in removal from the program.
-Requirements
-General
-Allowed editors: vi, vim, emacs
-OS: Ubuntu 20.04 LTS
-Version of gcc: 9.3.0
-Version of make: GNU Make 4.2.1
-All your files should end with a new line
-A README.md file, at the root of the folder of the project, is mandatory
+# What is a makefile and how does it work
+## Installing the make utility
+## Official make documentation
+## More about Makefile
+## Learning Objectives 🎯
+## By the end of this project, you'll master the following concepts:
+
+# Understanding make and Makefiles
+## Knowing when, why, and how to use Makefiles
+## Setting and using rules
+## Exploring explicit and implicit rules
+## Discovering common and useful rules
+## Utilizing variables effectively
