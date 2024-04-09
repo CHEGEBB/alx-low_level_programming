@@ -22,13 +22,17 @@
 ***
 
 ## Search algorithm 🧭
-Space complexity (1) 🌌
-Search Algorithms video playlist 📺
-What to Expect 🤔
-Get ready to:
+***
+- Space complexity (1) 🌌
+- Search Algorithms video playlist 📺
+- What to Expect 🤔
+- Get ready to:
+***
 
 ## Implement various search algorithms in C 🛠️
-Understand the efficiency and complexity of different search strategies 📊
-Test your implementations against different datasets and edge cases 🧪
-Let's Dive In! 🏊‍♂️
-Now that you're all set, it's time to embark on this exciting journey of search algorithms! Don't hesitate to reach out for help or clarification if needed. Happy coding! 💻✨
+***
+- Understand the efficiency and complexity of different search strategies 📊
+- Test your implementations against different datasets and edge cases 🧪
+- Let's Dive In! 🏊‍♂️
+- Now that you're all set, it's time to embark on this exciting journey of search algorithms! Don't hesitate to reach out for help or clarification if needed. Happy coding! 💻✨
+***
