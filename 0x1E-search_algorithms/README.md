@@ -9,15 +9,17 @@
 ***
 
 ## Project Details 📝
-Language: C 🖥️
-Category: Algorithm 🤖
-Weight: 1 ⚖️
-Project Start: Apr 8, 2024 6:00 AM ⏰
-Project End: Apr 11, 2024 6:00 AM ⏳
-Checker Release: Apr 9, 2024 12:00 AM 🕛
-Auto Review Deadline: Deadline 📅
-Resources 📚
-Make sure to read or watch the following resources to ace this project:
+***
+- Language: C 🖥️
+- Category: Algorithm 🤖
+- Weight: 1 ⚖️
+- Project Start: Apr 8, 2024 6:00 AM ⏰
+- Project End: Apr 11, 2024 6:00 AM ⏳
+- Checker Release: Apr 9, 2024 12:00 AM 🕛
+- Auto Review Deadline: Deadline 📅
+- Resources 📚
+- Make sure to read or watch the following resources to ace this project:
+***
 
 ## Search algorithm 🧭
 Space complexity (1) 🌌
