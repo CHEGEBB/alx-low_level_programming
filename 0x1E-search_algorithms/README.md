@@ -1,5 +1,7 @@
 # 0x1E. C - Search Algorithms 🕵️‍♂️
-## Welcome to the Search Algorithms project in C! 🎉 In this project, you'll dive deep into the fascinating world of algorithms designed to efficiently find specific elements within data structures. 🚀
+***
+-Welcome to the Search Algorithms project in C! 🎉 In this project, you'll dive deep into the fascinating world of algorithms designed to efficiently find specific elements within data structures. 🚀
+***
 
 ## Overview ℹ️
 This project is part of the ALX curriculum, focusing on the implementation and understanding of various search algorithms in the C programming language. 📚 You'll be exploring different strategies to locate elements within arrays and other data structures efficiently. 💡
