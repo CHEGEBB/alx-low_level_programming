@@ -1,6 +1,6 @@
 # 0x1E. C - Search Algorithms 🕵️‍♂️
 ***
--Welcome to the Search Algorithms project in C! 🎉 In this project, you'll dive deep into the fascinating world of algorithms designed to efficiently find specific elements within data structures. 🚀
+- Welcome to the Search Algorithms project in C! 🎉 In this project, you'll dive deep into the fascinating world of algorithms designed to efficiently find specific elements within data structures. 🚀
 ***
 
 ## Overview ℹ️
