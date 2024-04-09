@@ -4,7 +4,9 @@
 ***
 
 ## Overview ℹ️
-This project is part of the ALX curriculum, focusing on the implementation and understanding of various search algorithms in the C programming language. 📚 You'll be exploring different strategies to locate elements within arrays and other data structures efficiently. 💡
+***
+- This project is part of the ALX curriculum, focusing on the implementation and understanding of various search algorithms in the C programming language. 📚 You'll be exploring different strategies to locate elements within arrays and other data structures efficiently. 💡
+***
 
 ## Project Details 📝
 Language: C 🖥️
